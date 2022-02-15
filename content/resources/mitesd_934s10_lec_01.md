@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This resource contains introduction. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/f78ada9e203facbbbde625c9e9230369_MITESD_934S10_lec_01.pdf
+file: /media/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/f78ada9e203facbbbde625c9e9230369_MITESD_934S10_lec_01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MITESD_934S10_lec_01.pdf
 uid: f78ada9e-203f-acbb-bde6-25c9e9230369

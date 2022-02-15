@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information related to regulatory instruments
   to mitigate climate change.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/a102a1f02867cc6b88eb88c82f32ab99_MITESD_934S10_lec_26.pdf
+file: /media/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/a102a1f02867cc6b88eb88c82f32ab99_MITESD_934S10_lec_26.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MITESD_934S10_lec_26.pdf
 uid: a102a1f0-2867-cc6b-88eb-88c82f32ab99

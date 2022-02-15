@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This resource contains information related to market power.  '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/1f49be554b57eb2d4119116c20ff509d_MITESD_934S10_lec_12.pdf
+file: /media/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/1f49be554b57eb2d4119116c20ff509d_MITESD_934S10_lec_12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MITESD_934S10_lec_12.pdf
 uid: 1f49be55-4b57-eb2d-4119-116c20ff509d

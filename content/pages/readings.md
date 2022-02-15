@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 8fa3f981-2ef1-79a6-cb7e-a5e24e29ca3e
 ---
@@ -28,7 +31,7 @@ Perez-Arriaga, Ignacio J., Hugh Rudnick, and Michel Rivier. "Electric Energy Sys
 
 "[The Role of Electricity](http://www2.eurelectric.org/Content/Default.asp?PageID=729)." Brussels, Belgium: Eurelectric, 2007.
 
-EPRI Energy Technology Assessment Center. "The Power to Reduce CO2 Emissions." Discussion paper prepared for Electric Power Research Institute (EPRI) Summer Seminar, Palo Alto, CA, August 2007.
+EPRI Energy Technology Assessment Center. "The Power to Reduce CO{{< sub "2" >}} Emissions." Discussion paper prepared for Electric Power Research Institute (EPRI) Summer Seminar, Palo Alto, CA, August 2007.
 
 de Jong, E. C. W. "Low Carbon Electricity Systems." Arnhem, Netherlands: KEMA Consulting, 2009.
 
@@ -299,12 +302,12 @@ Legros, Gwenaelle, et al. "The Energy Access Situation in Developing Countries."
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-O: CO2 markets and prices
+O: CO{{< sub "2" >}} markets and prices
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Ellerman, Denny A. "Lessons for the United States from the European Union's CO2 Emissions Trading Scheme." Chapter 1 in _Cap-and-Trade: Contributions to the Design of a U.S. Greenhouse Gas Program_. A. Denny Ellerman, Mort Webster, et al. Cambridge, MA: MIT Center for Energy and Environmental Policy Research, 2008.
+Ellerman, Denny A. "Lessons for the United States from the European Union's CO{{< sub "2" >}} Emissions Trading Scheme." Chapter 1 in _Cap-and-Trade: Contributions to the Design of a U.S. Greenhouse Gas Program_. A. Denny Ellerman, Mort Webster, et al. Cambridge, MA: MIT Center for Energy and Environmental Policy Research, 2008.
 
 Ellerman, Denny A., Paul Joskow, and David Harrison, Jr. "Emissions Trading in the U.S.: Experience, Lessons, and Considerations for Greenhouse Gases." Prepared for the Pew Center on Global Climate Change, 2003.
 

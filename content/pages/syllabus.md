@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 5c6d3e84-747e-1a43-6c44-c7bea4519ee7
 ---
@@ -256,7 +258,7 @@ How many people still lack access to electricity? What is the impact on human de
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Module O: CO2 markets and prices
+Module O: CO{{< sub "2" >}} markets and prices
 {{< tdclose >}}
 {{< tdopen >}}
 What are the major potential elements of the future global regime to address climate change? What could be the role of carbon markets and prices? How could this affect electricity markets?

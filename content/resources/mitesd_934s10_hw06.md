@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This resource contains problem set 6. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/3096aa5259e202d0035a08e67af4e6ab_MITESD_934S10_hw06.pdf
+file: /media/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/3096aa5259e202d0035a08e67af4e6ab_MITESD_934S10_hw06.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MITESD_934S10_hw06.pdf
 uid: 3096aa52-59e2-02d0-035a-08e67af4e6ab
