@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2bfd7d9b-ab8d-8db6-87f7-1ab0a2d52fe4
 resourcetype: Document
 title: MITESD_934S10_hw06.pdf
 uid: 3096aa52-59e2-02d0-035a-08e67af4e6ab

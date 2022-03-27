@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5774bc80-245b-b8a5-d47e-f6894552b0b3
 resourcetype: Document
 title: MITESD_934S10_lec_14b.pdf
 uid: ada505c8-2ec9-8fad-e233-785ce49a8b6b
