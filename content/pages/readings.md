@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a detailed list of readings for each module of
+  the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -56,9 +58,9 @@ Jamison, Mark, Sanford Berg, Farid Gasmi, and Jose Tavara. "Annotated Reading Li
 
 Al-Sunaidy, A., and R. Green. "Electricity Deregulation in OECD (Organization for Economic Cooperation and Development) Countries." _Energy_ 31 (2006): 769–787.
 
-Joskow, Paul. "Markets for Power in the United States: An Interim Assessment." _The Energy Journal_ 27, no. 1 (2006): 1-36. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0MB](http://econ-www.mit.edu/files/1184))
+Joskow, Paul. "Markets for Power in the United States: An Interim Assessment." _The Energy Journal_ 27, no. 1 (2006): 1-36. ([PDF - 1.0MB](http://econ-www.mit.edu/files/1184))
 
-———. "Challenges for Creating a Comprehensive National Electricity Policy." Cambridge, MA: MIT Center for Energy and Environmental Policy Research, 2008. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://econ-www.mit.edu/files/3236))
+———. "Challenges for Creating a Comprehensive National Electricity Policy." Cambridge, MA: MIT Center for Energy and Environmental Policy Research, 2008. ([PDF](http://econ-www.mit.edu/files/3236))
 
 Sioshansi, Fareidoon P., and Wolfgang Pfaffenberger, eds. _Electricity Market Reform: An International Perspective_. Oxford, UK: Elsevier Science, 2006. ISBN: 9780080450308. (Read the Foreword and Introduction)
 
@@ -83,7 +85,7 @@ Scheepers, Martin, et. al. "Regulatory Improvements for Effective Integration of
 
 Joskow, Paul. "Incentive Regulation in Theory and Practice: Electricity Distribution and Transmission Networks." Working paper. Cambridge, MA: MIT Center for Energy and Environmental Policy Research, January 21, 2006.
 
-"![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Quality of Electricity Supply Improved by Regulators' Incentive-penalty Regimes." Press Release PR-09-04, Council of European Energy Regulators (CEER), February 23, 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.energy-community.org/dam/jcr:276d8122-8939-4a48-90dd-2fd1297faae2/ECRB_report_quality.pdf))
+"Quality of Electricity Supply Improved by Regulators' Incentive-penalty Regimes." Press Release PR-09-04, Council of European Energy Regulators (CEER), February 23, 2009. ([PDF](https://www.energy-community.org/dam/jcr:276d8122-8939-4a48-90dd-2fd1297faae2/ECRB_report_quality.pdf))
 
 
 {{< tdclose >}}
@@ -102,7 +104,7 @@ García González, Javier. "Decision Support Models in Electric Power Systems." 
 
 Ventosa, Mariano, and Pedro Linares. "The Economics of Regulation: Competitive Activities." Energy Regulators Training Course. Florence, Italy: Florence School of Regulation, 2003. O'Neill, Richard, Udi Helman, Benjamin Hobbs, and Ross Baldick. "Independent System Operators in the USA: History, Lessons Learned, and Prospects." Chapter 14 in _Electricity Market Reform: An International Perspective_. Edited by Sioshansi, Fareidoon P., and Wolfgang Pfaffenberger. Oxford, UK: Elsevier Science, 2006. ISBN: 9780080450308.
 
-Gribik, Paul R., William W. Hogan, and Susan L. Pope. "Market-Clearing Electricity Prices and Energy Uplift." Working paper. Cambridge, MA: Harvard Kennedy School of Government, December 31, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.lmpmarketdesign.com/papers/Gribik_Hogan_Pope_Price_Uplift_123107.pdf))
+Gribik, Paul R., William W. Hogan, and Susan L. Pope. "Market-Clearing Electricity Prices and Energy Uplift." Working paper. Cambridge, MA: Harvard Kennedy School of Government, December 31, 2007. ([PDF](http://www.lmpmarketdesign.com/papers/Gribik_Hogan_Pope_Price_Uplift_123107.pdf))
 
 
 {{< tdclose >}}
@@ -151,15 +153,15 @@ G: Retail markets
 
 Batlle, Carlos. "Electricity and Retail Markets." Energy Regulators Training Course. Florence, Italy: Florence School of Regulation, 2009.
 
-Batlle, Carlos, and Pablo Rodilla. "Electricity Demand Response Tools: Current Status and Outstanding Issues." _European Review of Energy Markets_ 3, no. 2 (2009). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.eeinstitute.org/european-review-of-energy-market/EREM_8-_Article_Battle_-amp__Rodilla.pdf))
+Batlle, Carlos, and Pablo Rodilla. "Electricity Demand Response Tools: Current Status and Outstanding Issues." _European Review of Energy Markets_ 3, no. 2 (2009). ([PDF](http://www.eeinstitute.org/european-review-of-energy-market/EREM_8-_Article_Battle_-amp__Rodilla.pdf))
 
 Tierney, Susan, and Todd Schatzki. "Competitive Procurement of Retail Electricity Supply: Recent Trends in State Policies and Utility Practices." _The Electricity Journal_ 22, no. 1 (2009): 50-62.
 
-Joskow, Paul L. "Why do we need Electricity Retailer? Or: Can You Get it Cheaper Wholesale?" Working paper. Cambridge, MA: MIT Center for Energy and Environmental Policy Research, February 13, 2000. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://econ-www.mit.edu/files/1127))
+Joskow, Paul L. "Why do we need Electricity Retailer? Or: Can You Get it Cheaper Wholesale?" Working paper. Cambridge, MA: MIT Center for Energy and Environmental Policy Research, February 13, 2000. ([PDF](http://econ-www.mit.edu/files/1127))
 
 Littlechild, Stephen C. "Why We Need Electricity Retailers: A Reply to Joskow on Wholesale Spot Price Pass-through." Cambridge Working Papers in Economics #0008. Cambridge, UK: Faculty of Economics, University of Cambridge, August 2000.
 
-Vazquez, Carlos, Carlos Batlle, Sara Lumbreras, and Ignacio J. Perez-Arriaga. "Electricity Retail Regulation in a Context of Vertical Integration: the Debate on Regulated Tariffs." IIT Working Paper IIT-06-028A. Madrid, Spain: Universidad Pontificia Comillas, December 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.iit.upcomillas.es/batlle/Publications/2006%20Electricity%20retail%20regulation%20in%20a%20vertical%20integration%20context%20_%20V%C3%A1zquez.pdf))
+Vazquez, Carlos, Carlos Batlle, Sara Lumbreras, and Ignacio J. Perez-Arriaga. "Electricity Retail Regulation in a Context of Vertical Integration: the Debate on Regulated Tariffs." IIT Working Paper IIT-06-028A. Madrid, Spain: Universidad Pontificia Comillas, December 2006. ([PDF](http://www.iit.upcomillas.es/batlle/Publications/2006%20Electricity%20retail%20regulation%20in%20a%20vertical%20integration%20context%20_%20V%C3%A1zquez.pdf))
 
 Vasconcelos, Jorge. "[Survey of Regulatory and Technological Developments Concerning Smart Metering in the European Union Electricity Market](http://cadmus.eui.eu/handle/1814/9267)." RSCAS Policy Papers. Florence, Italy: European University Institute, 2008.
 
@@ -174,7 +176,7 @@ H: Long-term guarantee of supply in generation
 {{< tdopen >}}
 
 
-Pérez-Arriaga, Ignacio J. "Security of Electricity Supply in Europe in a Short, Medium and Long-term Perspective." _European Review of Energy Markets_ 2, no. 2 (2007): 1-28. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.eeinstitute.org/european-review-of-energy-market/EREM%205_Article%20Ignacio%20J.%20Perez-Arriaga.pdf))
+Pérez-Arriaga, Ignacio J. "Security of Electricity Supply in Europe in a Short, Medium and Long-term Perspective." _European Review of Energy Markets_ 2, no. 2 (2007): 1-28. ([PDF](https://www.eeinstitute.org/european-review-of-energy-market/EREM%205_Article%20Ignacio%20J.%20Perez-Arriaga.pdf))
 
 Batlle, Carlos, and Ignacio J. Perez-Arriaga. "Design Criteria for Implementing a Capacity Mechanism in Deregulated Electricity Markets." _Utilities Policy_ 16 (2008) 184-193.
 
@@ -188,7 +190,7 @@ Batlle, Carlos, Carlos Vazquez, Michel Rivier, and Ignacio J. Perez-Arriaga. "En
 
 ———. "Security of Supply in the Dutch Electricity Market: the Role of Reliability Options." Prepared for the Office for Energy Regulation of The Netherlands. Madrid, Spain: Universidad Pontificia Comillas, December 2003.
 
-Cramton, Peter, and Steven Stoft. "Colombia Firm Energy Market." February 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.cramton.umd.edu/papers2005-2009/cramton-stoft-colombia-firm-energy-market.pdf))
+Cramton, Peter, and Steven Stoft. "Colombia Firm Energy Market." February 2007. ([PDF](http://www.cramton.umd.edu/papers2005-2009/cramton-stoft-colombia-firm-energy-market.pdf))
 
 
 {{< tdclose >}}
@@ -290,9 +292,9 @@ N: Universal access to electricity
 
 "Energy Access Theme Results." Synthesis/Compilation Report. Global Network on Energy for Sustainable Development (GNESD), April 30, 2004.
 
-Reiche, Kilian, Bernard Tenenbaum, and Clemencia Torres de Mastle. "Electrification and Regulation: Principles and a Model Law." Energy and Mining Sector Board Discussion Paper, no. 18. Washington DC: The World Bank Group, July 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.573.1408&rep=rep1&type=pdf))
+Reiche, Kilian, Bernard Tenenbaum, and Clemencia Torres de Mastle. "Electrification and Regulation: Principles and a Model Law." Energy and Mining Sector Board Discussion Paper, no. 18. Washington DC: The World Bank Group, July 2006. ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.573.1408&rep=rep1&type=pdf))
 
-Besant-Jones, John E. "Reforming Power Markets in Developing Countries: What Have We Learned?" Energy and Mining Sector Board Discussion Paper, no. 19. Washington DC: The World Bank Group, September 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB](https://www.semanticscholar.org/paper/Reforming-power-markets-in-developing-countries-%3A-Besant-Jones/926c5a9ba84a99ffb9d3209b8e59a8ee2677b755))
+Besant-Jones, John E. "Reforming Power Markets in Developing Countries: What Have We Learned?" Energy and Mining Sector Board Discussion Paper, no. 19. Washington DC: The World Bank Group, September 2006. ([PDF - 1.3MB](https://www.semanticscholar.org/paper/Reforming-power-markets-in-developing-countries-%3A-Besant-Jones/926c5a9ba84a99ffb9d3209b8e59a8ee2677b755))
 
 Legros, Gwenaelle, et al. "The Energy Access Situation in Developing Countries." New York, NY: World Health Organization and United Nations Development Programme, November 2009.
 
