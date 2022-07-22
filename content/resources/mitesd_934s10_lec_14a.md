@@ -6,6 +6,7 @@ file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-pow
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITESD_934S10_lec_14a.pdf
 uid: 415d7571-6a61-0b72-e8b5-71f814b0cc7a
 ---
 This resource contains information related to the introduction of electricity transmission. 
-

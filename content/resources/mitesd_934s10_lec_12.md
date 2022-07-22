@@ -5,6 +5,7 @@ file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-pow
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITESD_934S10_lec_12.pdf
 uid: 1f49be55-4b57-eb2d-4119-116c20ff509d
 ---
 This resource contains information related to market power.  
-

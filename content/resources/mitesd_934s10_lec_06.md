@@ -6,6 +6,7 @@ file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-pow
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITESD_934S10_lec_06.pdf
 uid: 8fb75d9b-95fa-36ce-8c51-52c629015f5a
 ---
 This resource contains information related to electricity distribution and the regulation of monopolies.  
-

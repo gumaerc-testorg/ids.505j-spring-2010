@@ -5,6 +5,7 @@ file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-pow
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITESD_934S10_lec_11.pdf
 uid: eaecf3eb-9b45-55ed-84d5-59e0f0b42dfb
 ---
 This resource contains information related to wholesale market design.  
-

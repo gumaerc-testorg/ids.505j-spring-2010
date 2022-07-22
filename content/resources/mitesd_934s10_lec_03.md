@@ -5,6 +5,7 @@ file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-pow
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITESD_934S10_lec_03.pdf
 uid: 97643f82-30f9-effc-66e3-469e32ee1f92
 ---
 This resource contains information related to electricity production.  
-

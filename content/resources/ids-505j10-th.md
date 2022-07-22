@@ -11,10 +11,10 @@ image_metadata:
   credit: Image by nmrmak on Flickr.
   image-alt: Photograph of electric power transmission lines.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: ids-505j10-th.jpg
 uid: 10c03937-7977-e24c-9ae0-ff0880b7382e
 ---
 This course discusses both technical and regulatory issues surrounding electric power systems. (Image by nmrmak on Flickr.)
-

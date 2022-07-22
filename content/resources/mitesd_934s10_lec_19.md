@@ -6,6 +6,7 @@ file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-pow
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITESD_934S10_lec_19.pdf
 uid: 209a69c7-9808-3929-5f7e-2137d0a19b66
 ---
 This resource contains information related to long-term guarantee of supply in generation.  
-

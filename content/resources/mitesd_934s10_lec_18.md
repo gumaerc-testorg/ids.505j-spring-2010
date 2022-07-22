@@ -5,6 +5,7 @@ file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-pow
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITESD_934S10_lec_18.pdf
 uid: 7905b6f7-f7e9-966c-4444-ed0c497c140e
 ---
 This resource contains information related to electricity retail. 
-

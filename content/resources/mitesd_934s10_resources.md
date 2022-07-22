@@ -5,6 +5,7 @@ file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-pow
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITESD_934S10_resources.pdf
 uid: 59ee3773-2d91-f692-0ba9-94559377c8fa
 ---
 This resource contains book references and general web resources.  
-

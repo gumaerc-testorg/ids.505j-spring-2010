@@ -6,6 +6,7 @@ file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-pow
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITESD_934S10_lec_14b.pdf
 uid: ada505c8-2ec9-8fad-e233-785ce49a8b6b
 ---
 This resource contains information related to electricity transmission expansion models.  
-
