@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to electricity retail. '
 file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/7905b6f7f7e9966c4444ed0c497c140e_MITESD_934S10_lec_18.pdf
+file_size: 628786
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains introduction. '
 file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/f78ada9e203facbbbde625c9e9230369_MITESD_934S10_lec_01.pdf
+file_size: 704050
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

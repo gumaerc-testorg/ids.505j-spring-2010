@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information related to electricity transmission:
   pricing.  '
 file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/7ab5d2fbe9e350967d7c12eba900b81e_MITESD_934S10_lec_16.pdf
+file_size: 2039188
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to electricity tariffs. '
 file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/be0ddd371c75812c7dc3250264b5c062_MITESD_934S10_lec_17.pdf
+file_size: 2685296
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
