@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information related to long-term guarantee of
   supply in generation.  '
 file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/209a69c7980839295f7e2137d0a19b66_MITESD_934S10_lec_19.pdf
+file_size: 943885
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

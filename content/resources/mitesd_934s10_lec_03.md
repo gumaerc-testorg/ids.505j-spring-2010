@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to electricity production.  '
 file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/97643f8230f9effc66e3469e32ee1f92_MITESD_934S10_lec_03.pdf
+file_size: 1644756
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
