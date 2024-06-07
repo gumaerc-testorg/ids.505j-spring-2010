@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to regional electricity markets. '
 file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/c34513784ffd0ba86a7f2e1c90a3b267_MITESD_934S10_lec_22.pdf
+file_size: 3728623
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
