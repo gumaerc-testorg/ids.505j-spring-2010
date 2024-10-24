@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to universal access to electricity. '
-file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/401c0ddd423342b42554a05afe40f982_MITESD_934S10_lec_25.pdf
+file: /ol-ocw-studio-app/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/401c0ddd423342b42554a05afe40f982_MITESD_934S10_lec_25.pdf
 file_size: 343230
 file_type: application/pdf
 learning_resource_types:
