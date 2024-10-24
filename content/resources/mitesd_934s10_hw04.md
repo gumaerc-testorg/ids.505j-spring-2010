@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains problem set 4.  '
-file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/1f36f91b4f61a204542ac604b4ad623a_MITESD_934S10_hw04.pdf
+file: /ol-ocw-studio-app/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/1f36f91b4f61a204542ac604b4ad623a_MITESD_934S10_hw04.pdf
 file_size: 37997
 file_type: application/pdf
 learning_resource_types:
