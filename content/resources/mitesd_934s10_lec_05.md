@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to the regulation of the
   US power sector.  '
-file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/e762790a4bcd1f7c6c511ffe0bff1163_MITESD_934S10_lec_05.pdf
+file: /ol-ocw-studio-app/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/e762790a4bcd1f7c6c511ffe0bff1163_MITESD_934S10_lec_05.pdf
 file_size: 1736287
 file_type: application/pdf
 learning_resource_types:

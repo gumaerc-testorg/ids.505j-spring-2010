@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to electricity transmission:
   investment.  '
-file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/1b649a985eeaabfc1f49d5c91c4531be_MITESD_934S10_lec_15.pdf
+file: /ol-ocw-studio-app/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/1b649a985eeaabfc1f49d5c91c4531be_MITESD_934S10_lec_15.pdf
 file_size: 1201205
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to regulatory instruments
   to mitigate climate change.
-file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/a102a1f02867cc6b88eb88c82f32ab99_MITESD_934S10_lec_26.pdf
+file: /ol-ocw-studio-app/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/a102a1f02867cc6b88eb88c82f32ab99_MITESD_934S10_lec_26.pdf
 file_size: 789144
 file_type: application/pdf
 learning_resource_types:
