@@ -167,7 +167,7 @@ Energy, Transport, and Water Department. "Building Regional Power Pools: A Toolk
 L: Sustainability aspects
 {{< tdclose >}}{{< tdopen >}}
 
-Creyts, Jon, et al. "[Unlocking Energy Efficiency in the U.S. Economy](http://www.mckinsey.com/clientservice/electricpowernaturalgas/US_energy_efficiency/)." Executive Summary. McKinsey Global Energy and Materials, July 2009.
+Creyts, Jon, et al. "[Unlocking Energy Efficiency in the U.S. Economy](https://www.mckinsey.com/~/media/mckinsey/dotcom/client_service/epng/pdfs/unlocking%20energy%20efficiency/us_energy_efficiency_exc_summary.ashx)." Executive Summary. McKinsey Global Energy and Materials, July 2009.
 
 Linares, Pedro. "Energy Efficiency and the Environment." Madrid, Spain: Universidad Pontificia Comillas, March 2009.
 
