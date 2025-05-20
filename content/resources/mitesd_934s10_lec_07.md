@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to basic economic functions. '
-file: /ol-ocw-studio-app/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/fdd0a1999e14b30793eeda79e4965d2e_MITESD_934S10_lec_07.pdf
+file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/fdd0a1999e14b30793eeda79e4965d2e_MITESD_934S10_lec_07.pdf
 file_size: 8650659
 file_type: application/pdf
 learning_resource_types:

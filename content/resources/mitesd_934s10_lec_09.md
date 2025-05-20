@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to principles of microeconomics.  '
-file: /ol-ocw-studio-app/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/91c3d75c9324cefd9bb827747b8e33e9_MITESD_934S10_lec_09.pdf
+file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/91c3d75c9324cefd9bb827747b8e33e9_MITESD_934S10_lec_09.pdf
 file_size: 2827912
 file_type: application/pdf
 learning_resource_types:

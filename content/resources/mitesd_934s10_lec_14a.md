@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to the introduction of electricity
   transmission. '
-file: /ol-ocw-studio-app/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/415d75716a610b72e8b571f814b0cc7a_MITESD_934S10_lec_14a.pdf
+file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/415d75716a610b72e8b571f814b0cc7a_MITESD_934S10_lec_14a.pdf
 file_size: 1793132
 file_type: application/pdf
 learning_resource_types:

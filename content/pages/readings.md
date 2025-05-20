@@ -191,7 +191,7 @@ N: Universal access to electricity
 
 "Energy Access Theme Results." Synthesis/Compilation Report. Global Network on Energy for Sustainable Development (GNESD), April 30, 2004.
 
-Reiche, Kilian, Bernard Tenenbaum, and Clemencia Torres de Mastle. "Electrification and Regulation: Principles and a Model Law." Energy and Mining Sector Board Discussion Paper, no. 18. Washington DC: The World Bank Group, July 2006. ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.573.1408&rep=rep1&type=pdf))
+Reiche, Kilian, Bernard Tenenbaum, and Clemencia Torres de Mastle. "Electrification and Regulation: Principles and a Model Law." Energy and Mining Sector Board Discussion Paper, no. 18. Washington DC: The World Bank Group, July 2006. ([PDF](https://ppp.worldbank.org/public-private-partnership/sites/default/files/2024-08/wb_energy_and_regulation_principles_and_a_model_law_2006_english.pdf))
 
 Besant-Jones, John E. "Reforming Power Markets in Developing Countries: What Have We Learned?" Energy and Mining Sector Board Discussion Paper, no. 19. Washington DC: The World Bank Group, September 2006. ([PDF - 1.3MB](https://www.semanticscholar.org/paper/Reforming-power-markets-in-developing-countries-%3A-Besant-Jones/926c5a9ba84a99ffb9d3209b8e59a8ee2677b755))
 

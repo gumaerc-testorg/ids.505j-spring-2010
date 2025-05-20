@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to electricity markets and
   public policy. '
-file: /ol-ocw-studio-app/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/1e8eeb623814b56d8f829d1b803db446_MITESD_934S10_lec_23.pdf
+file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/1e8eeb623814b56d8f829d1b803db446_MITESD_934S10_lec_23.pdf
 file_size: 1685716
 file_type: application/pdf
 learning_resource_types:
