@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to power system operation
   and management. '
-file: /ol-ocw-studio-app/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/19bef6cacc4b81e3592637c4eb5df82f_MITESD_934S10_lec_02.pdf
+file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/19bef6cacc4b81e3592637c4eb5df82f_MITESD_934S10_lec_02.pdf
 file_size: 1350417
 file_type: application/pdf
 learning_resource_types:

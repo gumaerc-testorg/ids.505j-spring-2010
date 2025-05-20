@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to wholesale market design.  '
-file: /ol-ocw-studio-app/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/eaecf3eb9b4555ed84d559e0f0b42dfb_MITESD_934S10_lec_11.pdf
+file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/eaecf3eb9b4555ed84d559e0f0b42dfb_MITESD_934S10_lec_11.pdf
 file_size: 4139253
 file_type: application/pdf
 learning_resource_types:
