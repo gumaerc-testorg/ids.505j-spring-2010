@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains book references and general web resources.  '
-file: /ol-ocw-studio-app/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/59ee37732d91f6920ba994559377c8fa_MITESD_934S10_resources.pdf
+file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/59ee37732d91f6920ba994559377c8fa_MITESD_934S10_resources.pdf
 file_size: 66922
 file_type: application/pdf
 learning_resource_types:
