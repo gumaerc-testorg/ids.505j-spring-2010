@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to electricity distribution
   and the regulation of monopolies.  '
-file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/8fb75d9b95fa36ce8c5152c629015f5a_MITESD_934S10_lec_06.pdf
+file: /ol-ocw-studio-app/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/8fb75d9b95fa36ce8c5152c629015f5a_MITESD_934S10_lec_06.pdf
 file_size: 5786274
 file_type: application/pdf
 learning_resource_types:
