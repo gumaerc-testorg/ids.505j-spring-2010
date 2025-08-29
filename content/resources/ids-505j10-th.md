@@ -2,7 +2,7 @@
 content_type: resource
 description: This course discusses both technical and regulatory issues surrounding
   electric power systems. (Image by nmrmak on Flickr.)
-file: /courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/10c039377977e24c9ae0ff0880b7382e_ids-505j10-th.jpg
+file: /ol-ocw-studio-app/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/10c039377977e24c9ae0ff0880b7382e_ids-505j10-th.jpg
 file_size: 9810
 file_type: image/jpeg
 image_metadata:
