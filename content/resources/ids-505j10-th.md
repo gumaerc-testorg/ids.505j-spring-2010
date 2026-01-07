@@ -7,8 +7,8 @@ file_size: 9810
 file_type: image/jpeg
 image_metadata:
   caption: This course discusses both technical and regulatory issues surrounding
-    electric power systems. (Image by {{% resource_link "7e501919-4d7e-47bb-9196-82f133eed2b3"
-    "nmrmak" %}} on Flickr.)
+    electric power systems. (Image by [nmrmak](http://www.flickr.com/photos/51392234@N06/4939340032/sizes/m/in/photostream/)
+    on Flickr.)
   credit: Image by nmrmak on Flickr.
   image-alt: Photograph of electric power transmission lines.
 learning_resource_types: []
